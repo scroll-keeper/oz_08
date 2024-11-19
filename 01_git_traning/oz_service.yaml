@@ -2,8 +2,17 @@ team: oz_service
 
 leader: 희은
 
+<<<<<<< HEAD
 member:
 - 세형
 - 수아
 - 상훈
 - 지수
+=======
+coach: 서진
+
+member:
+- 세형
+- 수아
+- 상훈
+>>>>>>> add-coach
